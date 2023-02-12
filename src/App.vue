@@ -1,8 +1,8 @@
 <script setup>
-  import { reactive } from 'vue';
-  import Cabecalho from '../src/components/cabecalho.vue';
-  import Formulario from '../src/components/Formulario.vue';
-  import ListaDeTarefas from '../src/components/ListaDeTarefas.vue';
+  import { reactive } from 'vue'
+  import Cabecalho from '../src/components/cabecalho.vue'
+  import Formulario from '../src/components/Formulario.vue'
+  import ListaDeTarefas from '../src/components/ListaDeTarefas.vue'
 
 
   const estado = reactive({
